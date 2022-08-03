@@ -11,7 +11,7 @@ for (let i = 0; i < input.length; i++) {
     if (input[i] == input[0]) {
 
     }else {
-        total += input[i]; 
+        total += input[i];
     }
 
     if (input[i] == input[1]) {
